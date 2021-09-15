@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Cap03",
         "Cap02",
-        "Cap03"
+        "Cap04"
     ]
 }

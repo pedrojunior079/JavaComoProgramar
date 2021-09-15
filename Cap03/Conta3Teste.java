@@ -24,7 +24,7 @@ public class Conta3Teste
 
       //exibe os saldos
       System.out.printf("%s saldo: $%.2f %n", conta1.getNome(),conta1.getSaldo());
-      System.out.printf("");
+      System.out.printf("%s saldo: $%.2f %n%n",conta2.getNome(),conta2.getSaldo());
       
-   }    
-}//fim da classe ContaTeste
+   }//fim de main    
+}//fim da classe Conta3Teste
