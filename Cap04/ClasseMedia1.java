@@ -32,10 +32,10 @@ public class ClasseMedia1
       //se usuário inseriu pelo menos uma nota...
       if(notaContador != 0)
       {
-         double media = (double) = total/notaContador;
+         double media = (double) total/notaContador;
          //exibe o total e a média das notas
          System.out.printf("total de todas as 10 notas foi  %d%n", notaContador, total);
-         System.out.printf("Classe Media foi %d%n", media);
+         System.out.printf("Classe Media foi %.2f%n", media);
       }
       else
          System.out.println("Nenhuma nota foi inserida");
