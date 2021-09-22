@@ -4,7 +4,7 @@ import javax.swing.JFrame;
 
 public class DesenharPainelTeste
 {
-	public static void mmain(String[] args)
+	public static void main(String[] args)
 	{
 		//cria um ṕainel que contem nosso desenho
 		

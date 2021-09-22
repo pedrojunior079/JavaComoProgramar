@@ -9,7 +9,7 @@ public class DesenharPainel extends JPanel
 	public void paintComponent(Graphics g)
 	{
 		//chama paintComponent para assegurar que o painel é exibido coreretamente
-		super.paintCompent(g);
+		super.paintComponent(g);
 		
 		int width = getWidth(); //largura total
 		int height = getHeight(); //altura total
