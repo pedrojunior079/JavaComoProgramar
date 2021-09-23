@@ -1,5 +1,6 @@
 # JavaComoProgramar
- Livro Java Como Programar da editora Pearson Education do Brasil livro da 8a editão fisicao no qual eu possuo 
+ Livro Java Como Programar da editora Pearson Education do Brasil livro da 8a editão fisicao no qual eu possuo.
+ Obs: Estou traduzindo para o portugues todos os exemplos que estão em ingles
 
  Capitulo 2: - Escrever aplicativos Java simples.
              - Usar declarações de entrada e saída.
@@ -17,4 +18,19 @@
              - Detectar o que são variaveis locais de um método e como  elas diferem de variáveis de instancia.
              - Distinguir o que são tipos primitivos e tipos de referencia.
              - Analisar comnmo usar um construtor para inicializar dados de um objeto.
-             - Desvendar como representar e usar números contendo pontos decimais              
+             - Desvendar como representar e usar números contendo pontos decimais.
+
+ Capitulo 4: - A utilizar tecnicas basicas de solução de problemas.
+             - A desenvolver algoritmos por meio do processo de refinamento passo a passo de cima para baixo utilizando pseudocodigo.
+             - A utilizar instruções de seleção if e if..else para escolher entre ações altermativas.
+             - A utilizar repetição controlada por contador e repetição controlada por sentinela.
+             - A utilizar os operadores compostos de atribuição, incremento de decremento.
+             - A portabilidade dos tipos de dados primitivos.
+
+ Capitulo 5: - Aprender os principos basicos da repetição controlada
+               por contador.
+             - Usar as instruções de de repetição for e do...while para executar instruções em um programa repetidamente.
+             - A Entender a seleção múltipla utiçlizando a instrução de seleção switch.
+             - Utilizar as instruções break e continue para alterar o fluxo de controle.
+             - A utilizar os operadores lógicos para formar expressões consdiçionais complexas em instruções de controle.
+                                                  
