@@ -33,4 +33,14 @@
              - A Entender a seleção múltipla utiçlizando a instrução de seleção switch.
              - Utilizar as instruções break e continue para alterar o fluxo de controle.
              - A utilizar os operadores lógicos para formar expressões consdiçionais complexas em instruções de controle.
+
+ Capitulo 6: - Como métodos e cmpos static são 
+               associados a uma inteira em vez de instancia especificas da classe.
+             - A utilizar metodos Math comuns disponiveis na java API.
+             - A entender os necanismos para passar informnações entre métodos
+             - Como o mecanismo de chamada/retorno de método é suportado pela pilha de chamada de métodos e registros de ativação.
+             - Como utilizar a geração de numeros aleatorios para implementar jogos de azar.
+             - Como a visiblidade das declarações é limitada a regiões especificas do programa.
+             - O que é sobrecarga de método e como crar métodos sobrecarregados     
+
                                                   
