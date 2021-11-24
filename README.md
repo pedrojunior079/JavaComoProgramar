@@ -55,7 +55,16 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
             <li>- A passar arrrays para métodos.</li>
             <li>- A declarar e manipular arrays multidimensinais.</li>
             <li>- A escrever métodos que utilizam listas de argumentos de comprimentos variavel.</li>
-            <li>- a ler argumentos da linha de comando em um programa.</li>
+            <li>- a ler argumentos da linha de comando em um programa.</li></br>
+            
+<p>Capitulo 8:</p>
+            <li>O encapsulamento e o ocultamento de dados.</li>
+            <li>A utilizar a palavra-chave this.</li>
+            <li>A utilizar variaveis e métodos static.</li>
+            <li>A importar membros static de uma classe</li>
+            <li>A utilizar o tipo <b>enum</b> para criar conjuntos de constantes com indentificadores unicos.</li>
+            <li>A declarar constantes <b>enum</b> com parametros.</li>
+            <li>A organizar classes em pacotes para promover a reutilizaçao</li>
 
 
 
