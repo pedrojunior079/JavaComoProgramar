@@ -1,8 +1,8 @@
 //Figura 7.7: JogosDeDados.java --> tradução do ingles RollDie.java
-//Programa de jogo de daos utilizando arraus em vez de switch
+//Programa de jogo de dados utilizando arraus em vez de switch
 import java.util.Random;  
 
-public class JogoDeDados 
+public class JogoDados
 {
     public static void main(String[] args)
     {

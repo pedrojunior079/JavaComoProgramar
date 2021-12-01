@@ -1,13 +1,12 @@
 //Figura 7.11: BaralhoDeCartasTeste.java --> tradução do ingles DeckOfCardsTest.java
 //Embaralhando e disyribuindo cartas.
-import java.util.Random;
 
-public class BaralhoDeCartasTeste 
+public class BaralhoCartasTeste
 {
    //executando o aplicativo
    public static void main(String[] args)
    {
-       BaralhoDeCartas meuBaralhoDeCartas = new BaralhoDeCartas();
+       BaralhoCartas meuBaralhoDeCartas = new BaralhoCartas();
        meuBaralhoDeCartas.embaralhar(); //colocra Cartas em ortdem aleatória
 
        //imprime todas as 52 cartas na ordem emn que são distribuidas

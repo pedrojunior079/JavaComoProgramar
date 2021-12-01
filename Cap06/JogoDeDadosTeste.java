@@ -5,7 +5,7 @@ public class JogoDeDadosTeste
 {
     public static void main(String[] args)
     {
-        JogoDeDados game = new JogoDeDados();
+        JogoDados game = new JogoDados();
         game.jogar(); //jpogar um jogo de JogoDeDados
     }//fim de main
 }//fim da classe JogoDeDadosTeste

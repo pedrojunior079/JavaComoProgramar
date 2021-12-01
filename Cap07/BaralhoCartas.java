@@ -3,7 +3,7 @@
 
 import java.util.Random;
 
-public class BaralhoDeCartas 
+public class BaralhoCartas
 {
    private Card[] deck; //array de objetos CartaBaralho
    private int currentCartaBaralho; //indice do proximo CartaBaralho a ser distribuido
@@ -12,7 +12,7 @@ public class BaralhoDeCartas
    private static final Random NumerosRandomicos = new Random();
    
    //construtor preenche baralho de cartas
-   public BaralhoDeCartas()
+   public BaralhoCartas()
    {
        String faces = {"Ás", "Duque", "Tres", "Quatro", "Cinco", "Seis", "Sete", 
             "Oito", "Nove", "Dez", "o valete", "Rainha", "Rei"};
