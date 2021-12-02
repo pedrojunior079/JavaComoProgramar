@@ -2,11 +2,11 @@
 //Aplicativo de teste que exibe um rosto sorridente.
 import javax.swing.JFrame;
 
-public class DesenharSmileyTeste 
+public class DesenharSorrisoTeste
 {
     public static void main(String[] args)
     {
-        DesenharSmiley panel = new DesenharSmiley();
+        DesenharSorriso panel = new DesenharSorriso();
         JFrame aplicacao = new JFrame();
 
         aplicacao.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

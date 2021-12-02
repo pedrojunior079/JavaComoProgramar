@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 import javax.swing.JPanel;
 
-public class DesenharSmiley 
+public class DesenharSorriso
 {
     public void paintComponent(Graphics g)
     {
