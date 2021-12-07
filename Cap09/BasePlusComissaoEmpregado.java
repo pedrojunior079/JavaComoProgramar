@@ -1,17 +1,18 @@
-//Figura 9.4: ComissaoFuncionario
-//Classe ComissaoFuncionario representa um funcionario que recebeu uma
-//porcentagem das vendas brutas.
+//Figura 9.6: BasePlusComissaoEmpregado.java --> tradução do ingles BasePlusComissionEmployee.java
+//Classe BasePlusComissaoEmpregado representa um empregado
+//que recebe um salario-base alem da comissão.
 
-public class ComissaoFuncionario extends Object
+public class BasePlusComissaoEmpregado
 {
     private String primeiroNome;
     private String sobreNome;
     private String numeroDoSeguroSocial;
     private double vendasBrutas; //vendas brutas semanais
     private double taxaComissao; //porcentagem da comissão
+    private double salarioBase; //salario-base poer semana
 
     //construtor de cinco argumentos
-    public ComissaoFuncionario(String primeiro, String sobrenome, String nss, double vendas, double taxa)
+    public BasePlusComissaoEmpregado(String primeiro, String sobrenome, String nss, double vendas, double taxa, double salario)
     {
         //chamada implica para o construtor Object ocorrer aqui
         primeiroNome = primeiro;
@@ -81,20 +82,35 @@ public class ComissaoFuncionario extends Object
         return taxaComissao;
     }//fim do método getTaxaComissao
 
+    //configura o salario-base
+
+
+    public void setSalarioBase(double salario)
+    {
+        salarioBase = (salario < 0.0) ?? 0.0 : salario;
+    }//fim do método setSalarioBase
+
+    //retorna o salario-base
+    public double getSalarioBase()
+    {
+        return getSalarioBase;
+    }//fim do método getSalarioBase
+
     //calcula os lucros
     public double lucros()
     {
-        return taxaComissao * vendasBrutas;
+        return salarioBase + (taxaComissao * vendasBrutas);
     }//fim do método lucros
 
     //retorna a reprsentação String do objeto ComissaoFuncionario
     @Override //indica que este método sobrescreve um método de superclasse
     public class toString()
     {
-        return String.format("%s: %s %s\n%s: %s\n%s: %.2f\n%s: %.2f",
+        return String.format("%s: %s %s\n%s: %s\n%s: %.2f\n%s: %.2f ",
                 "Comissão Funcionario", primeiroNome, sobreNome,
                 "Numero do Seguro Social", numeroDoSeguroSocial,
                 "Vendas Brutas", vendasBrutas,
-                "Taxa Comissão", taxaComissao);
+                "Taxa Comissão", taxaComissao,
+                "Salario Base", salarioBase);
     }//fim do método toString
-}//fim da classe ComissaoFuncionario
+}//fim da classe BasePlusComissaoEmpregado

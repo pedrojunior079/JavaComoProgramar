@@ -1,5 +1,5 @@
-//Figura 9.5:ComissaoFuncionarioTeste.java --> tradução do ingles ComissionEmployeeTest.java
-//Programa de teste da classe ComissaoFuncionario.
+//Figura 9.7:BasePlusComissaoEmpregadoTeste.java --> tradução do ingles BasePlusComissionEmployeeTest.java
+//Programa de teste da classe BasePlusComissaoEmpregado.
 /*
  ./ComissaoFuncionario.java:92: error: '{' expected
     public class toString()
@@ -24,26 +24,26 @@
 6 errors
  */
 
-public class ComissaoFuncionarioTeste
+public class BasePlusComissaoEmpregadoTeste
 {
     public static void main(String[] args)
     {
         //instancia o objeto ComissaoFuncionario
-        ComissaoFuncionario funcionario = new ComissaoFuncionario(
-                "Sue", "Jones", "222-22-2222", 10000, .06);
+        BasePlusComissaoEmpregado empregado = new BasePlusComissaoEmpregado(
+                "Bob", "Lews", "333-33-3333", 50000, .04, 300);
 
         //obtém os dados de empregado comissionado
         System.out.println("Informações de funcionários obtidas por métodos get: \n");
-        System.out.printf("%s %s\n", "Primeiro nome é", funcionario.getPrimeiroNome());
-        System.out.printf("%s %s\n", "Sobre nome é", funcionario.getSobreNome());
-        System.out.printf("%s %s\n", "Número do Seguro Social é", funcionario.getNumeroDoSeguroSocial());
-        System.out.printf("%s %.2f\n", "Vendas Brutas é", funcionario.getVendasBrutas());
-        System.out.printf("%s %.2f\n", "Taxa de Comissão é", funcionario.getTaxaComissao());
+        System.out.printf("%s %s\n", "Primeiro nome é", empregado.getPrimeiroNome());
+        System.out.printf("%s %s\n", "Sobre nome é", empregado.getSobreNome());
+        System.out.printf("%s %s\n", "Número do Seguro Social é", empregado.getNumeroDoSeguroSocial());
+        System.out.printf("%s %.2f\n", "Vendas Brutas é", empregado.getVendasBrutas());
+        System.out.printf("%s %.2f\n", "Taxa de Comissão é", empregado.getTaxaComissao());
+        System.out.printf("%s %.2f\n", "Salario Base é", empregado.getSalarioBase());
 
-        funcionario.setVendasBrutas(500); //configura vendas brutas
-        funcionario.setTaxaComissao(.1); //configura a taxa de comissao
+        empregado.setSalarioBase(1000); //confogira o slario-base
 
         System.out.printf("\n%s:\n\n%s\n",
-                "Informações atualizadas sobre funcionários obtidas por toString", funcionario);
+                "Informações atualizadas sobre funcionários obtidas por toString", empregado.toString());
     }//fim de main
-}//fim da clase ComissaoFuncionarioTeste
+}//fim da clase BasePlusComissaoEmṕregadoTeste
