@@ -66,8 +66,23 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
             <li>A declarar constantes <b>enum</b> com parametros.</li>
             <li>A organizar classes em pacotes para promover a reutilizaçao</li>
 
+<p>Capitulo 9:</p>
+             <li>Como a herança promove a capacidade de reutilização de software.</li>
+             <li>As noções de superclasse e subclasses.</li>
+             <li>A utilizar a palavra-chave <b>extends</b> para criar uma classe que herda atributos e comportamentos de outra classe.</li>
+             <li>A utilizar o modificador de acesso <b>protected</b> para fornecer acesso de métodos de subclasse a membros de superclasse.</li>
+             <li>A acessar membros de superclasse com <b>super</b>.</li>
+             <li>Como os construtores são utilizados em hieraquias de herança</li>
+             <li>Os métodos da classe <b>Object</b>, a superclasse direta ou indireta de todas as classes em java.</li>
 
-
+<p>Capitulo 10:</p>
+             <li>O conceito de polimorfismo.</li>
+             <li>A utilizar métodos sobrescritos para executar o polimorfismo.</li>
+             <li>A distinguir entre classes concretas e abstratas.</li>
+             <li>A declarar métodos abstratos para criar classes abstratas.</li>
+             <li>Como o polimorfismo toma sistemas extensiveis e sustentaveis.</li>
+             <li>A determinar um tipo de objeto em tempo de execução.</li>
+             <li>A declarar e implementar interfaces.</li>
 
 
                                                   
