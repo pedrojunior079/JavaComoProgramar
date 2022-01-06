@@ -1,15 +1,15 @@
-//Figura 10.4: Funcionarios.java
-//SuperClasse abstrata Empregado.
+//Figura 10.13: Funcionario2.java
+//SuperClasse abstrata Funcionario implementa A_Pagar.
+//corrigir codigo
 
-
-public abstract class Funcionarios
+public abstract class Funcionario2 implements A_Pagar
 {
     private String primeiroNome;
     private String sobreNome;
     private String numeroDoSeguroSocial;
 
     //construtor de cinco argumentos
-    public Funcionarios(String primeiro, String sobrenome, String nss)
+    public Funcionario2(String primeiro, String sobrenome, String nss)
     {
         //chamada implica para o construtor Object ocorrer aqui
         primeiroNome = primeiro;
@@ -56,12 +56,13 @@ public abstract class Funcionarios
 
     //retorna a reprsentação String do objeto ComissaoFuncionario
     @Override //indica que este método sobrescreve um método de superclasse
-    public class toString()
+    public class String toString()
     {
-        return String.format("%s %s\nnumero do seguro social: %s ",
+        return String.format("%s %s\n numero do seguro social: %s ",
                 getPrimeiroNome(), getSobreNome(), getNumeroSeguroSocial());
     }//fim do método toString
 
-    //método abstract sobrescrito por subclasses concretas
-    public abstract double lucros(); //nenhuma implementação aqui
-}//fim da classe abstract Empregados
+    //Nota: não implementamos o método A_Pagar
+    //classe eve ser declarada abstrada para evitar um erro
+    //de compilação.
+}//fim da classe abstract Funcionario2

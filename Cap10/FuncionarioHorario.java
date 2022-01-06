@@ -49,7 +49,7 @@ public class FuncionarioHorario  extends Funcionarios
     }//fim do método lucro
 
     //retorna a representação de String do objeto FuncionarioHorario
-    @Override]
+    @Override
     public String toString()
     {
         return String.format("Funcionario Horario:  %s\n%s:  $%,.2f;  %s:  %,.2f",
