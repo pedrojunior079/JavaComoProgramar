@@ -64,7 +64,7 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
             <li>A importar membros static de uma classe</li>
             <li>A utilizar o tipo <b>enum</b> para criar conjuntos de constantes com indentificadores unicos.</li>
             <li>A declarar constantes <b>enum</b> com parametros.</li>
-            <li>A organizar classes em pacotes para promover a reutilizaçao</li>
+            <li>A organizar classes em pacotes para promover a reutilizaçao</li></br>
 
 <p>Capitulo 9:</p>
              <li>Como a herança promove a capacidade de reutilização de software.</li>
@@ -73,7 +73,7 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
              <li>A utilizar o modificador de acesso <b>protected</b> para fornecer acesso de métodos de subclasse a membros de superclasse.</li>
              <li>A acessar membros de superclasse com <b>super</b>.</li>
              <li>Como os construtores são utilizados em hieraquias de herança</li>
-             <li>Os métodos da classe <b>Object</b>, a superclasse direta ou indireta de todas as classes em java.</li>
+             <li>Os métodos da classe <b>Object</b>, a superclasse direta ou indireta de todas as classes em java.</li></br>
 
 <p>Capitulo 10:</p>
              <li>O conceito de polimorfismo.</li>
@@ -82,7 +82,7 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
              <li>A declarar métodos abstratos para criar classes abstratas.</li>
              <li>Como o polimorfismo toma sistemas extensiveis e sustentaveis.</li>
              <li>A determinar um tipo de objeto em tempo de execução.</li>
-             <li>A declarar e implementar interfaces.</li>
+             <li>A declarar e implementar interfaces.</li></br>
 
 <p>Capitulo 11:</p>
               <li>O que são exceções.</li>
@@ -92,7 +92,7 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
               <li>Como o desenpilhamento permite que exceções não capturadas em um escopo sejam capturadas em outro </li>
               <li>Como o rastreamento de pilha ajudam na depuração</li>
               <li>A declarar novas classes de execução</li>
-             <li>A criar exceções encadeadas que mantem informações do rastreamento de pilha completo.</li>
+             <li>A criar exceções encadeadas que mantem informações do rastreamento de pilha completo.</li></br>
 
 <p>Capitulo 13:</p>
               <li>A incorporar herança ao projeto do ATM.</li>
