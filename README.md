@@ -84,5 +84,20 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
              <li>A determinar um tipo de objeto em tempo de execução.</li>
              <li>A declarar e implementar interfaces.</li>
 
+<p>Capitulo 11:</p>
+              <li>O que são exceções.</li>
+              <li>Como o tratamento de exceções e de erros funciona.</li>
+              <li>A utilizar <b>try</b>, <b>throw</b> e <b>catch</b> para detectar, indicar e tratar exceções respectivamente</li>
+              <li>A utilizar o bloco <b>finally</b> para liberar recursos.</li>
+              <li>Como o desenpilhamento permite que exceções não capturadas em um escopo sejam capturadas em outro </li>
+              <li>Como o rastreamento de pilha ajudam na depuração</li>
+              <li>A declarar novas classes de execução</li>
+             <li>A criar exceções encadeadas que mantem informações do rastreamento de pilha completo.</li>
 
-                                                  
+<p>Capitulo 13:</p>
+              <li>A incorporar herança ao projeto do ATM.</li>
+              <li>A incorporação polimorfismo ao projeto do ATM.</li>
+              <li>A implementação total no java no projeto orientado a objetos baseados na UML do software do ATM.</li>
+              <li>A estudar um guia passo a passo do código detalhado do sistema de software do ATM
+              que explica as questões de implementação.</li>
+
