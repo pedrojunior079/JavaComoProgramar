@@ -1,4 +1,4 @@
-//Figura 8.8: Funcionario.java --> tradução do ingles Employee.java
+//Figura 8.8: Funcionario2.java --> tradução do ingles Employee.java
 //Classe Funcionario com referencia a outros objetos
 
 public class Funcionario
