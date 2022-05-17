@@ -43,6 +43,6 @@ public class DesenharPainel extends JPanel
 
         //desenha as linhas
         for(MinhaLinha linha : linhas)
-            linha.draw(g);
+            linha.desenhar(g);
     }//fim do método paintComponent
 }//fim da classe DesenharPainel

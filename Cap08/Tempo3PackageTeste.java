@@ -1,6 +1,6 @@
 //Figura 8.19: Tempo3PackageTeste.java --tradução do ingles Time3PackageTest.java
 //objeto Tempo3 utilizando em um aplicativo.
-import com.deitel.jcp.cap08.Tempo3; //importa a classe Tempo3
+
 
 public class Tempo3PackageTeste
 {

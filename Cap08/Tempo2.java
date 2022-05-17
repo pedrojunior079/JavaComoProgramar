@@ -1,5 +1,5 @@
-//Figura8.5: Tempo2.java --tradução do ingles Time2.java
-//Declaração de classe Tempo1 mantém a hora no formato de 24 horas
+//Figura 8.5: Tempo2.java --tradução do ingles Time2.java
+//declaração de classe Tempo2 com construtor sobrecarregados.
 
 public class Tempo2
 {
@@ -11,7 +11,7 @@ public class Tempo2
     //com zero; assegura que objetos Tempo2 iniciam em um estado consistente
     public Tempo2()
     {
-        this(0, 0, 0) //invoca o construtor Tempo2 com tres argumentos
+        this(0, 0, 0); //invoca o construtor Tempo2 com tres argumentos
     }//fim do construtor sem argumento Tempo2
 
     //Construtor Tempo2: hora fornecido, minuto e segundo padronizados como 0
@@ -53,7 +53,7 @@ public class Tempo2
     //valida e configura a hora
     public void setHora(int h)
     {
-        hora((h >= 0 && m < 60) ? m : 0);
+        hora = ((h >= 0 && h < 60) ? h : 0);
     }//fim do método setHora
 
     public void setMinuto(int m)

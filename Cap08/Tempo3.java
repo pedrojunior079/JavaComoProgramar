@@ -1,6 +1,6 @@
 //Figura8.18: Tempo3.java --tradução do ingles Time3.java
 //Declaração de classe Tempo3 mantém a hora no formato de 24 horas
-package com.deitel.jcp.cap08;
+
 
 public class Tempo3
 {
