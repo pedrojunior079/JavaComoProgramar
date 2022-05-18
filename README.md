@@ -114,7 +114,7 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
               <li>A entender contextos graficos ew objetos graficos.</li>
               <li>A manipular cores.</li>
               <li>A manipular fontes.</li>
-              <li>A utilizar métodos da classe <b>Graphics</b> da <b>Java2D</b> para desenhar linhas, retangulos, retangulos com cantos arrendodados, retangulos tridimensionais, ovais, arcos e poligonos.</li>
+              <li>A utilizar métodos da classe <b>Graphics</b> da <b>Java2D</b> API para desenhar linhas, retangulos, retangulos com cantos arrendodados, retangulos tridimensionais, ovais, arcos e poligonos.</li>
               <li>A especificar as caracteristicas de <b>Paint</b> e <b>Stroker</b> das formas exibidas com <b>Graphics 2D</b>.</li>
               
 
