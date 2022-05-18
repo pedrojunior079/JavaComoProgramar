@@ -4,58 +4,58 @@ Obs: Estou traduzindo para o portugues todos os exemplos que estão em ingles.</
 Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
 
 <p>Capitulo 2:</p> 
-            <li>- Escrever aplicativos Java simples.</li>
-           <li> - Usar declarações de entrada e saída.</li>
-            <li>- Aprender os tipos primitivos em Java.</li>
-            <li>- Compreender os conceitos básicos de memória.</li>
-            <li>- Usar operadores aritméticos.</li>
-            <li>- Entender a precedência dos operadores aritméticos.</li>
-            <li>- Escrever declarações de tomada de decisão.</li>
-            <li>- Usar operadores relacionais e de igualdade.</li></br>
+            <li>Escrever aplicativos Java simples.</li>
+            <li>Usar declarações de entrada e saída.</li>
+            <li>Aprender os tipos primitivos em Java.</li>
+            <li>Compreender os conceitos básicos de memória.</li>
+            <li>Usar operadores aritméticos.</li>
+            <li>Entender a precedência dos operadores aritméticos.</li>
+            <li>Escrever declarações de tomada de decisão.</li>
+            <li>Usar operadores relacionais e de igualdade.</li></br>
             
 <p>Capitulo 3:</p> 
-        <li>- Descobrir como declarar uma classe e utiliza-la para criar um objeto.</li>
-            <li>- Ver como implementar comportamentos de uma classe como métodos.</li>
-            <li>- Aprender como implentar os atributos e uma classe como variaveis de instancia.</li>
-            <li>- Verificar como chamar os métodos de um objeto para faze-los realizarem suas tarefas.</li>
-            <li>- Detectar o que são variaveis locais de um método e como  elas diferem de variáveis de instancia.</li>
-            <li>- Distinguir o que são tipos primitivos e tipos de referencia.</li>
-            <li>- Analisar comnmo usar um construtor para inicializar dados de um objeto.</li>
-            <li>- Desvendar como representar e usar números contendo pontos decimais.</li></br>
+            <li>Descobrir como declarar uma classe e utiliza-la para criar um objeto.</li>
+            <li>Ver como implementar comportamentos de uma classe como métodos.</li>
+            <li>Aprender como implentar os atributos e uma classe como variaveis de instancia.</li>
+            <li>Verificar como chamar os métodos de um objeto para faze-los realizarem suas tarefas.</li>
+            <li>Detectar o que são variaveis locais de um método e como  elas diferem de variáveis de instancia.</li>
+            <li>Distinguir o que são tipos primitivos e tipos de referencia.</li>
+            <li>Analisar comnmo usar um construtor para inicializar dados de um objeto.</li>
+            <li>Desvendar como representar e usar números contendo pontos decimais.</li></br>
 
 <p>Capitulo 4:</p> 
-            <li>- A utilizar tecnicas basicas de solução de problemas.</li>
-            <li>- A desenvolver algoritmos por meio do processo de refinamento passo a passo de cima para baixo utilizando pseudocodigo.</li>
-            <li>- A utilizar instruções de seleção if e if..else para escolher entre ações altermativas.</li>
-            <li>- A utilizar repetição controlada por contador e repetição controlada por sentinela.</li>
-            <li>- A utilizar os operadores compostos de atribuição, incremento de decremento.</li>
-            <li>- A portabilidade dos tipos de dados primitivos.</li></br>
+            <li>A utilizar tecnicas basicas de solução de problemas.</li>
+            <li>A desenvolver algoritmos por meio do processo de refinamento passo a passo de cima para baixo utilizando pseudocodigo.</li>
+            <li>A utilizar instruções de seleção if e if..else para escolher entre ações altermativas.</li>
+            <li>A utilizar repetição controlada por contador e repetição controlada por sentinela.</li>
+            <li>A utilizar os operadores compostos de atribuição, incremento de decremento.</li>
+            <li>A portabilidade dos tipos de dados primitivos.</li></br>
 
 <p>Capitulo 5:</p> 
-            <li>- Aprender os principos basicos da repetição controlada por contador.</li>
-            <li>- Usar as instruções de de repetição for e do...while para executar instruções em um programa repetidamente.</li>
-            <li>- A Entender a seleção múltipla utiçlizando a instrução de seleção switch.</li>
-            <li>- Utilizar as instruções break e continue para alterar o fluxo de controle.</li>
-            <li>- A utilizar os operadores lógicos para formar expressões consdiçionais complexas em instruções de controle.</li></br>
+            <li>Aprender os principos basicos da repetição controlada por contador.</li>
+            <li>Usar as instruções de de repetição for e do...while para executar instruções em um programa repetidamente.</li>
+            <li>A Entender a seleção múltipla utiçlizando a instrução de seleção switch.</li>
+            <li>Utilizar as instruções break e continue para alterar o fluxo de controle.</li>
+            <li>A utilizar os operadores lógicos para formar expressões consdiçionais complexas em instruções de controle.</li></br>
 
 <p>Capitulo 6:</p> 
-            <li>- Como métodos e cmpos static são associados a uma inteira em vez de instancia especificas da classe.</li>       
-            <li>- A utilizar metodos Math comuns disponiveis na java API.</li>
-            <li>- A entender os necanismos para passar informnações entre métodos.</li>
-            <li>- Como o mecanismo de chamada/retorno de método é suportado pela pilha de chamada de métodos e registros de ativação.</li>
-            <li>- Como utilizar a geração de numeros aleatorios para implementar jogos de azar.</li>
-            <li>- Como a visiblidade das declarações é limitada a regiões especificas do programa.</li>
-            <li>- O que é sobrecarga de método e como crar métodos sobrecarregados.</li></br>
+            <li>Como métodos e cmpos static são associados a uma inteira em vez de instancia especificas da classe.</li>       
+            <li>A utilizar metodos Math comuns disponiveis na java API.</li>
+            <li>A entender os necanismos para passar informnações entre métodos.</li>
+            <li>Como o mecanismo de chamada/retorno de método é suportado pela pilha de chamada de métodos e registros de ativação.</li>
+            <li>Como utilizar a geração de numeros aleatorios para implementar jogos de azar.</li>
+            <li>Como a visiblidade das declarações é limitada a regiões especificas do programa.</li>
+            <li>O que é sobrecarga de método e como crar métodos sobrecarregados.</li></br>
 
 <p>Capitulo 7:</p> 
-            <li>- O que são arrays.</li>
-            <li>- A utilizar arrays para armazenar dados e recuperá-los de listas e tabelas e valores.</li>
-            <li>- A declarar arrays, inicializar arrays e referir-se elementos especificos dos arrays.</li>
-            <li>- A utilizar a instrução for aprimorada para iterar por arrays.</li>
-            <li>- A passar arrrays para métodos.</li>
-            <li>- A declarar e manipular arrays multidimensinais.</li>
-            <li>- A escrever métodos que utilizam listas de argumentos de comprimentos variavel.</li>
-            <li>- a ler argumentos da linha de comando em um programa.</li></br>
+            <li>O que são arrays.</li>
+            <li>A utilizar arrays para armazenar dados e recuperá-los de listas e tabelas e valores.</li>
+            <li>A declarar arrays, inicializar arrays e referir-se elementos especificos dos arrays.</li>
+            <li>A utilizar a instrução for aprimorada para iterar por arrays.</li>
+            <li>A passar arrrays para métodos.</li>
+            <li>A declarar e manipular arrays multidimensinais.</li>
+            <li>A escrever métodos que utilizam listas de argumentos de comprimentos variavel.</li>
+            <li>A ler argumentos da linha de comando em um programa.</li></br>
             
 <p>Capitulo 8:</p>
             <li>O encapsulamento e o ocultamento de dados.</li>
@@ -99,7 +99,7 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
               <li>A incorporação polimorfismo ao projeto do ATM.</li>
               <li>A implementação total no java no projeto orientado a objetos baseados na UML do software do ATM.</li>
               <li>A estudar um guia passo a passo do código detalhado do sistema de software do ATM
-              que explica as questões de implementação.</li>
+              que explica as questões de implementação.</li></br>
 
  <p>Capitulo 14:</p>
               <li>Os principios do projeto de interfaces gráficas com o usuário (Graphical User Interfaces --- GUIs).</li>
@@ -108,6 +108,14 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
               <li>A entender os pacotes que contem componentes GUI, interfaces e classes de tratamento de evento.</li>
               <li>A criar e manipular botões, rotulos, listas, campos de texos e painéis.</li>
               <li>A tratar eventos de mouse e eventos de teclado.</li>
-              <li></li>
+              <li>A utilizar gerenciadores de layout para organizar componentes GUI.</li></br>
+     
+ <p>Capitulo 15:</p>
+              <li>A entender contextos graficos ew objetos graficos.</li>
+              <li>A manipular cores.</li>
+              <li>A manipular fontes.</li>
+              <li>A utilizar métodos da classe <b>Graphics</b> da <b>Java2D</b> API para desenhar linhas, retangulos, retangulos com cantos arrendodados, retangulos tridimensionais, ovais, arcos e poligonos.</li>
+              <li>A especificar as caracteristicas de <b>Paint</b> e <b>Stroker</b> das formas exibidas com <b>Graphics 2D</b>.</li>
+              
 
 
