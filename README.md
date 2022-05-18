@@ -99,7 +99,7 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
               <li>A incorporação polimorfismo ao projeto do ATM.</li>
               <li>A implementação total no java no projeto orientado a objetos baseados na UML do software do ATM.</li>
               <li>A estudar um guia passo a passo do código detalhado do sistema de software do ATM
-              que explica as questões de implementação.</li>
+              que explica as questões de implementação.</li></br>
 
  <p>Capitulo 14:</p>
               <li>Os principios do projeto de interfaces gráficas com o usuário (Graphical User Interfaces --- GUIs).</li>
@@ -108,7 +108,7 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
               <li>A entender os pacotes que contem componentes GUI, interfaces e classes de tratamento de evento.</li>
               <li>A criar e manipular botões, rotulos, listas, campos de texos e painéis.</li>
               <li>A tratar eventos de mouse e eventos de teclado.</li>
-              <li>A utilizar gerenciadores de layout para organizar componentes GUI.</li>
+              <li>A utilizar gerenciadores de layout para organizar componentes GUI.</li></br>
      
  <p>Capitulo 15:</p>
               <li>A entender contextos graficos ew objetos graficos.</li>
