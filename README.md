@@ -108,6 +108,14 @@ Usando a IDE IntelliJ IDEAJ Comunity Edition juntamente com git</br>
               <li>A entender os pacotes que contem componentes GUI, interfaces e classes de tratamento de evento.</li>
               <li>A criar e manipular botões, rotulos, listas, campos de texos e painéis.</li>
               <li>A tratar eventos de mouse e eventos de teclado.</li>
-              <li></li>
+              <li>A utilizar gerenciadores de layout para organizar componentes GUI.</li>
+     
+ <p>Capitulo 15:</p>
+              <li>A entender contextos graficos ew objetos graficos.</li>
+              <li>A manipular cores.</li>
+              <li>A manipular fontes.</li>
+              <li>A utilizar métodos da classe Graphics paara desenhar linhas, retangulos, retangulos com cantos arrendodados, retangulos tridimensionais, ovais, arcos e poligonos.</li>
+              <li>A especificar as caracteristicas de Paint e Stroker das formas exibidas com Graphics 2D.</li>
+              
 
 
