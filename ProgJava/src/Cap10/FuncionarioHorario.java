@@ -9,10 +9,10 @@ public class FuncionarioHorario  extends Funcionarios
       private double horas; //horas trabalhadas durante a semana
 
       //construtor de cinco argumentos
-      public FuncionarioHorario(String primeiroNome, sobreNome, String nss, double horasRenumeradas, double horasTrabalhadas)
+      public FuncionarioHorario(String primeiroNome, String sobreNome, String nss, double horasRenumeradas, double horasTrabalhadas)
       {
             super(primeiroNome, sobreNome, nss);
-            setRenumeracao(horasRenumeradas); //valida a renumeração por hora
+            setRenumeracao(horasRenumeradas); //valida a renumeracao por hora
             setHoras(horasTrabalhadas); //valida as horas trabalhadas
       } //fim do construtor FuncionarioHorario com cinco argumentos
 

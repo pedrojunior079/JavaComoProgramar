@@ -1,6 +1,6 @@
 package Cap10;
 
-//Figura 10.7: ComissaoFuncionario.java --> tradução da classe ingles Commissionemployee.java
+//Figura 10.7: ComissaoFuncionario.java --> traducao da classe ingles Commissionemployee.java
 //Classe ComissaoFuncionario extende Funcionarios.
 
 
@@ -14,13 +14,14 @@ public class ComissaoFuncionario extends Funcionarios
     {
         super(primeiro, sobrenome, nss);
         setVendasBrutas(vendas);
+        setTaxaComissao(taxa);
     }//fim do construtor ComissaoFuncionario de cinco argumentos
 
-    //configura a taxa de comissão
+    //configura a taxa de comissao
     public void setTaxaComissao(double taxa)
     {
         taxaComissao = (taxa > 0.0 && taxa < 1.0) ? taxa : 0.0;
-    }//fim do método setTexaComissao
+    }//fim do metodo setTexaComissao
 
     //retorna a taxa de comissão
     public double getTaxaComissao()
@@ -38,22 +39,21 @@ public class ComissaoFuncionario extends Funcionarios
     public double getVendasBrutas()
     {
         return vendasBrutas;
-    }//fim do método getVendasBrutas
+    }//fim do metodo getVendasBrutas
 
     //calcula os rendimentos: sobrescreve o método licro em Funcionarios
     public double lucros()
     {
         return taxaComissao * vendasBrutas;
-    }//fim do método lucros
+    }//fim do metodo lucros
 
-    //retorna a reprsentação String do objeto ComissaoFuncionario
+    //retorna a reprsentacao String do objeto ComissaoFuncionario
     @Override //indica que este método sobrescreve um método de superclasse
     public String toString()
     {
         return String.format("%s: %s %s\n%s: %s\n%s: %.2f\n%s: %.2f",
-                "Comissao Funcionario", primeiroNome, sobreNome,
-                "Numero do Seguro Social", numeroDoSeguroSocial,
-                "Vendas Brutas", vendasBrutas,
-                "Taxa Comissão", taxaComissao);
+                "Comissao Funcionario", super.toString(),
+                "Vendas Brutas", getVendasBrutas(),
+                "Taxa Comissão", getTaxaComissao());
     }//fim do método toString
 }//fim da classe ComissaoFuncionario

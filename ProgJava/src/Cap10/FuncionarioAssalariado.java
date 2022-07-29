@@ -11,7 +11,7 @@ public class FuncionarioAssalariado extends Funcionarios
     public FuncionarioAssalariado(String primeiroNome, String sobreNome, String nss, double salario)
     {
         super(primeiroNome, sobreNome, nss); //passa para o construtor Empregado
-        salarioSemanal(salario); //valida e armazena o salario
+        setSalarioSemanal(salario); //valida e armazena o salario
     }//fim do construtor EmpregadoAssalariado com quatro argumentos
 
     //configutra o salario

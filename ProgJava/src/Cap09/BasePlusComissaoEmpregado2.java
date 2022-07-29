@@ -1,7 +1,7 @@
 package Cap09;
 
-//Figura 9.8: BasePlusComissaoEmpregado2.java --> tradução do ingles BasePlusComissionEmployee.java
-//membros private da superclasse não podendo ser acessado em uma subclasse.
+//Figura 9.8: BasePlusComissaoEmpregado2.java --> traducao do ingles BasePlusComissionEmployee.java
+//membros private da superclasse nao podendo ser acessado em uma subclasse.
 
 
 public class BasePlusComissaoEmpregado2 extends ComissaoFuncionario

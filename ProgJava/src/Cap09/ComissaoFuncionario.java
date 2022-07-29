@@ -6,11 +6,11 @@ package Cap09;
 
 public class ComissaoFuncionario extends Object
 {
-    private String primeiroNome;
-    private String sobreNome;
-    private String numeroDoSeguroSocial;
-    private double vendasBrutas; //vendas brutas semanais
-    private double taxaComissao; //porcentagem da comissão
+    protected String primeiroNome;
+    protected String sobreNome;
+    protected String numeroDoSeguroSocial;
+    protected double vendasBrutas; //vendas brutas semanais
+    protected double taxaComissao; //porcentagem da comissão
 
     //construtor de cinco argumentos
     public ComissaoFuncionario(String primeiro, String sobrenome, String nss, double vendas, double taxa)

@@ -6,7 +6,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 import javax.swing.JPanel;
 
-public class DrawSmiley
+public class DrawSmiley extends JPanel
 {
     public void paintComponent(Graphics g)
     {
