@@ -48,7 +48,7 @@ Usando a IDE Eclipse juntamente com git</br>
    - Como a visiblidade das declarações é limitada a regiões especificas do programa.
    - O que é sobrecarga de método e como crar métodos sobrecarregados.
 
-# Capitulo 7: 
+## Capitulo 7: 
   - O que são arrays.
   - A utilizar arrays para armazenar dados e recuperá-los de listas e tabelas e valores.
   - A declarar arrays, inicializar arrays e referir-se elementos especificos dos arrays.
@@ -58,7 +58,7 @@ Usando a IDE Eclipse juntamente com git</br>
   - A escrever métodos que utilizam listas de argumentos de comprimentos variavel.
   - A ler argumentos da linha de comando em um programa.
             
-# Capitulo 8:
+## Capitulo 8:
   - O encapsulamento e o ocultamento de dados.
   - A utilizar a palavra-chave this.
   - A utilizar variaveis e métodos static.
@@ -67,7 +67,7 @@ Usando a IDE Eclipse juntamente com git</br>
   - A declarar constantes <b>enum</b> com parametros.
   - A organizar classes em pacotes para promover a reutilizaçao
 
-# Capitulo 9:
+## Capitulo 9:
   - Como a herança promove a capacidade de reutilização de software.
   - As noções de superclasse e subclasses.
   - A utilizar a palavra-chave <b>extends</b> para criar uma classe que herda atributos e comportamentos de outra classe.
@@ -76,7 +76,7 @@ Usando a IDE Eclipse juntamente com git</br>
   - Como os construtores são utilizados em hieraquias de herança
   - Os métodos da classe <b>Object</b>, a superclasse direta ou indireta de todas as classes em java.
 
-# Capitulo 10:
+## Capitulo 10:
   - O conceito de polimorfismo.
   - A utilizar métodos sobrescritos para executar o polimorfismo.
   - A distinguir entre classes concretas e abstratas.
@@ -85,7 +85,7 @@ Usando a IDE Eclipse juntamente com git</br>
   - A determinar um tipo de objeto em tempo de execução.
   - A declarar e implementar interfaces.
 
-# Capitulo 11:
+## Capitulo 11:
   - O que são exceções.
   - Como o tratamento de exceções e de erros funciona.
   - A utilizar <b>try</b>, <b>throw</b> e <b>catch</b> para detectar, indicar e tratar exceções respectivamente
@@ -95,14 +95,14 @@ Usando a IDE Eclipse juntamente com git</br>
   - A declarar novas classes de execução
   - A criar exceções encadeadas que mantem informações do rastreamento de pilha completo.
 
-# Capitulo 13:
+## Capitulo 13:
   - A incorporar herança ao projeto do ATM.
   - A incorporação polimorfismo ao projeto do ATM.
   - A implementação total no java no projeto orientado a objetos baseados na UML do software do ATM.
   - A estudar um guia passo a passo do código detalhado do sistema de software do ATM
               que explica as questões de implementação.
 
- # Capitulo 14:
+ ## Capitulo 14:
    - Os principios do projeto de interfaces gráficas com o usuário (Graphical User Interfaces --- GUIs).
    - Como utilizar a nova e elegante interface Nimbus do java compativel com varias plataformas.
    - A construir GUIs e tratar eventos gerados por interface de usuario com GUIs.
@@ -111,7 +111,7 @@ Usando a IDE Eclipse juntamente com git</br>
    - A tratar eventos de mouse e eventos de teclado.
    - A utilizar gerenciadores de layout para organizar componentes GUI.
      
- # Capitulo 15:
+ ## Capitulo 15:
    - A entender contextos graficos em objetos graficos.
    - A manipular cores.
    - A manipular fontes.
