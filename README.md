@@ -4,61 +4,61 @@ Obs: Estou traduzindo para o portugues todos os exemplos que estão em ingles, e
 Só algumas palavras que to traduzindo para o portugues nos exemplos em ingles.</br>
 Usando a IDE Eclipse juntamente com git</br>
 
-<p>Capitulo 2:</p> 
-            <li>Escrever aplicativos Java simples.</li>
-            <li>Usar declarações de entrada e saída.</li>
-            <li>Aprender os tipos primitivos em Java.</li>
-            <li>Compreender os conceitos básicos de memória.</li>
-            <li>Usar operadores aritméticos.</li>
-            <li>Entender a precedência dos operadores aritméticos.</li>
-            <li>Escrever declarações de tomada de decisão.</li>
-            <li>Usar operadores relacionais e de igualdade.</li></br>
+## Capitulo 2: 
+            - Escrever aplicativos Java simples.
+            - Usar declarações de entrada e saída.
+            - Aprender os tipos primitivos em Java.
+            - Compreender os conceitos básicos de memória.
+            - Usar operadores aritméticos.
+            - Entender a precedência dos operadores aritméticos.
+            - Escrever declarações de tomada de decisão.
+            - Usar operadores relacionais e de igualdade.
             
-<p>Capitulo 3:</p> 
-            <li>Descobrir como declarar uma classe e utiliza-la para criar um objeto.</li>
-            <li>Ver como implementar comportamentos de uma classe como métodos.</li>
-            <li>Aprender como implentar os atributos e uma classe como variaveis de instancia.</li>
-            <li>Verificar como chamar os métodos de um objeto para faze-los realizarem suas tarefas.</li>
-            <li>Detectar o que são variaveis locais de um método e como  elas diferem de variáveis de instancia.</li>
-            <li>Distinguir o que são tipos primitivos e tipos de referencia.</li>
-            <li>Analisar comnmo usar um construtor para inicializar dados de um objeto.</li>
-            <li>Desvendar como representar e usar números contendo pontos decimais.</li></br>
+# Capitulo 3: 
+            - Descobrir como declarar uma classe e utiliza-la para criar um objeto.
+            - Ver como implementar comportamentos de uma classe como métodos.
+            - Aprender como implentar os atributos e uma classe como variaveis de instancia.
+            - Verificar como chamar os métodos de um objeto para faze-los realizarem suas tarefas.
+            - Detectar o que são variaveis locais de um método e como  elas diferem de variáveis de instancia.
+            - Distinguir o que são tipos primitivos e tipos de referencia.
+            - Analisar comnmo usar um construtor para inicializar dados de um objeto.
+            - Desvendar como representar e usar números contendo pontos decimais.
 
-<p>Capitulo 4:</p> 
-            <li>A utilizar tecnicas basicas de solução de problemas.</li>
-            <li>A desenvolver algoritmos por meio do processo de refinamento passo a passo de cima para baixo utilizando pseudocodigo.</li>
-            <li>A utilizar instruções de seleção if e if..else para escolher entre ações altermativas.</li>
-            <li>A utilizar repetição controlada por contador e repetição controlada por sentinela.</li>
-            <li>A utilizar os operadores compostos de atribuição, incremento de decremento.</li>
-            <li>A portabilidade dos tipos de dados primitivos.</li></br>
+# Capitulo 4: 
+            - A utilizar tecnicas basicas de solução de problemas.
+            - A desenvolver algoritmos por meio do processo de refinamento passo a passo de cima para baixo utilizando pseudocodigo.
+            - A utilizar instruções de seleção if e if..else para escolher entre ações altermativas.
+            - A utilizar repetição controlada por contador e repetição controlada por sentinela.
+            - A utilizar os operadores compostos de atribuição, incremento de decremento.
+            - A portabilidade dos tipos de dados primitivos.
 
-<p>Capitulo 5:</p> 
-            <li>Aprender os principos basicos da repetição controlada por contador.</li>
-            <li>Usar as instruções de de repetição for e do...while para executar instruções em um programa repetidamente.</li>
-            <li>A Entender a seleção múltipla utiçlizando a instrução de seleção switch.</li>
-            <li>Utilizar as instruções break e continue para alterar o fluxo de controle.</li>
-            <li>A utilizar os operadores lógicos para formar expressões consdiçionais complexas em instruções de controle.</li></br>
+# Capitulo 5: 
+            - Aprender os principos basicos da repetição controlada por contador.
+            - Usar as instruções de de repetição for e do...while para executar instruções em um programa repetidamente.
+            - A Entender a seleção múltipla utiçlizando a instrução de seleção switch.
+            - Utilizar as instruções break e continue para alterar o fluxo de controle.
+            - A utilizar os operadores lógicos para formar expressões consdiçionais complexas em instruções de controle.
 
-<p>Capitulo 6:</p> 
-            <li>Como métodos e cmpos static são associados a uma inteira em vez de instancia especificas da classe.</li>       
-            <li>A utilizar metodos Math comuns disponiveis na java API.</li>
-            <li>A entender os necanismos para passar informnações entre métodos.</li>
-            <li>Como o mecanismo de chamada/retorno de método é suportado pela pilha de chamada de métodos e registros de ativação.</li>
-            <li>Como utilizar a geração de numeros aleatorios para implementar jogos de azar.</li>
-            <li>Como a visiblidade das declarações é limitada a regiões especificas do programa.</li>
-            <li>O que é sobrecarga de método e como crar métodos sobrecarregados.</li></br>
+# Capitulo 6: 
+            - Como métodos e cmpos static são associados a uma inteira em vez de instancia especificas da classe.       
+            - A utilizar metodos Math comuns disponiveis na java API.
+            - A entender os necanismos para passar informnações entre métodos.
+            - Como o mecanismo de chamada/retorno de método é suportado pela pilha de chamada de métodos e registros de ativação.
+            - Como utilizar a geração de numeros aleatorios para implementar jogos de azar.
+            - Como a visiblidade das declarações é limitada a regiões especificas do programa.
+            - O que é sobrecarga de método e como crar métodos sobrecarregados.
 
-<p>Capitulo 7:</p> 
-            <li>O que são arrays.</li>
-            <li>A utilizar arrays para armazenar dados e recuperá-los de listas e tabelas e valores.</li>
-            <li>A declarar arrays, inicializar arrays e referir-se elementos especificos dos arrays.</li>
-            <li>A utilizar a instrução for aprimorada para iterar por arrays.</li>
-            <li>A passar arrrays para métodos.</li>
-            <li>A declarar e manipular arrays multidimensinais.</li>
-            <li>A escrever métodos que utilizam listas de argumentos de comprimentos variavel.</li>
-            <li>A ler argumentos da linha de comando em um programa.</li></br>
+# Capitulo 7: 
+            - O que são arrays.
+            - A utilizar arrays para armazenar dados e recuperá-los de listas e tabelas e valores.
+            - A declarar arrays, inicializar arrays e referir-se elementos especificos dos arrays.
+            - A utilizar a instrução for aprimorada para iterar por arrays.
+            - A passar arrrays para métodos.
+            - A declarar e manipular arrays multidimensinais.
+            - A escrever métodos que utilizam listas de argumentos de comprimentos variavel.
+            - A ler argumentos da linha de comando em um programa.
             
-<p>Capitulo 8:</p>
+# Capitulo 8:
             <li>O encapsulamento e o ocultamento de dados.</li>
             <li>A utilizar a palavra-chave this.</li>
             <li>A utilizar variaveis e métodos static.</li>
@@ -67,56 +67,56 @@ Usando a IDE Eclipse juntamente com git</br>
             <li>A declarar constantes <b>enum</b> com parametros.</li>
             <li>A organizar classes em pacotes para promover a reutilizaçao</li></br>
 
-<p>Capitulo 9:</p>
-             <li>Como a herança promove a capacidade de reutilização de software.</li>
-             <li>As noções de superclasse e subclasses.</li>
-             <li>A utilizar a palavra-chave <b>extends</b> para criar uma classe que herda atributos e comportamentos de outra classe.</li>
-             <li>A utilizar o modificador de acesso <b>protected</b> para fornecer acesso de métodos de subclasse a membros de superclasse.</li>
-             <li>A acessar membros de superclasse com <b>super</b>.</li>
-             <li>Como os construtores são utilizados em hieraquias de herança</li>
-             <li>Os métodos da classe <b>Object</b>, a superclasse direta ou indireta de todas as classes em java.</li></br>
+# Capitulo 9:
+             - Como a herança promove a capacidade de reutilização de software.
+             - As noções de superclasse e subclasses.
+             - A utilizar a palavra-chave <b>extends</b> para criar uma classe que herda atributos e comportamentos de outra classe.
+             - A utilizar o modificador de acesso <b>protected</b> para fornecer acesso de métodos de subclasse a membros de superclasse.
+             - A acessar membros de superclasse com <b>super</b>.
+             - Como os construtores são utilizados em hieraquias de herança
+             - Os métodos da classe <b>Object</b>, a superclasse direta ou indireta de todas as classes em java.
 
-<p>Capitulo 10:</p>
-             <li>O conceito de polimorfismo.</li>
-             <li>A utilizar métodos sobrescritos para executar o polimorfismo.</li>
-             <li>A distinguir entre classes concretas e abstratas.</li>
-             <li>A declarar métodos abstratos para criar classes abstratas.</li>
-             <li>Como o polimorfismo toma sistemas extensiveis e sustentaveis.</li>
-             <li>A determinar um tipo de objeto em tempo de execução.</li>
-             <li>A declarar e implementar interfaces.</li></br>
+# Capitulo 10:
+             - O conceito de polimorfismo.
+             - A utilizar métodos sobrescritos para executar o polimorfismo.
+             - A distinguir entre classes concretas e abstratas.
+             - A declarar métodos abstratos para criar classes abstratas.
+             - Como o polimorfismo toma sistemas extensiveis e sustentaveis.
+             - A determinar um tipo de objeto em tempo de execução.
+             - A declarar e implementar interfaces.
 
-<p>Capitulo 11:</p>
-              <li>O que são exceções.</li>
-              <li>Como o tratamento de exceções e de erros funciona.</li>
-              <li>A utilizar <b>try</b>, <b>throw</b> e <b>catch</b> para detectar, indicar e tratar exceções respectivamente</li>
-              <li>A utilizar o bloco <b>finally</b> para liberar recursos.</li>
-              <li>Como o desenpilhamento permite que exceções não capturadas em um escopo sejam capturadas em outro </li>
-              <li>Como o rastreamento de pilha ajudam na depuração</li>
-              <li>A declarar novas classes de execução</li>
-             <li>A criar exceções encadeadas que mantem informações do rastreamento de pilha completo.</li></br>
+# Capitulo 11:
+              - O que são exceções.
+              - Como o tratamento de exceções e de erros funciona.
+              - A utilizar <b>try</b>, <b>throw</b> e <b>catch</b> para detectar, indicar e tratar exceções respectivamente
+              - A utilizar o bloco <b>finally</b> para liberar recursos.
+              - Como o desenpilhamento permite que exceções não capturadas em um escopo sejam capturadas em outro 
+              - Como o rastreamento de pilha ajudam na depuração
+              - A declarar novas classes de execução
+              - A criar exceções encadeadas que mantem informações do rastreamento de pilha completo.
 
-<p>Capitulo 13:</p>
-              <li>A incorporar herança ao projeto do ATM.</li>
-              <li>A incorporação polimorfismo ao projeto do ATM.</li>
-              <li>A implementação total no java no projeto orientado a objetos baseados na UML do software do ATM.</li>
-              <li>A estudar um guia passo a passo do código detalhado do sistema de software do ATM
-              que explica as questões de implementação.</li></br>
+# Capitulo 13:
+              - A incorporar herança ao projeto do ATM.
+              - A incorporação polimorfismo ao projeto do ATM.
+              - A implementação total no java no projeto orientado a objetos baseados na UML do software do ATM.
+              - A estudar um guia passo a passo do código detalhado do sistema de software do ATM
+              que explica as questões de implementação.
 
- <p>Capitulo 14:</p>
-              <li>Os principios do projeto de interfaces gráficas com o usuário (Graphical User Interfaces --- GUIs).</li>
-              <li>Como utilizar a nova e elegante interface Nimbus do java compativel com varias plataformas.</li>
-              <li>A construir GUIs e tratar eventos gerados por interface de usuario com GUIs.</li>
-              <li>A entender os pacotes que contem componentes GUI, interfaces e classes de tratamento de evento.</li>
-              <li>A criar e manipular botões, rotulos, listas, campos de texos e painéis.</li>
-              <li>A tratar eventos de mouse e eventos de teclado.</li>
-              <li>A utilizar gerenciadores de layout para organizar componentes GUI.</li></br>
+ # Capitulo 14:
+              - Os principios do projeto de interfaces gráficas com o usuário (Graphical User Interfaces --- GUIs).
+              - Como utilizar a nova e elegante interface Nimbus do java compativel com varias plataformas.
+              - A construir GUIs e tratar eventos gerados por interface de usuario com GUIs.
+              - A entender os pacotes que contem componentes GUI, interfaces e classes de tratamento de evento.
+              - A criar e manipular botões, rotulos, listas, campos de texos e painéis.
+              - A tratar eventos de mouse e eventos de teclado.
+              - A utilizar gerenciadores de layout para organizar componentes GUI.
      
- <p>Capitulo 15:</p>
-              <li>A entender contextos graficos ew objetos graficos.</li>
-              <li>A manipular cores.</li>
-              <li>A manipular fontes.</li>
-              <li>A utilizar métodos da classe <b>Graphics</b> da <b>Java2D</b> API para desenhar linhas, retangulos, retangulos com cantos arrendodados, retangulos tridimensionais, ovais, arcos e poligonos.</li>
-              <li>A especificar as caracteristicas de <b>Paint</b> e <b>Stroker</b> das formas exibidas com <b>Graphics 2D</b>.</li>
+ # Capitulo 15:
+              - A entender contextos graficos em objetos graficos.
+              - A manipular cores.
+              - A manipular fontes.
+              - A utilizar métodos da classe <b>Graphics</b> da <b>Java2D</b> API para desenhar linhas, retangulos, retangulos com cantos arrendodados, retangulos tridimensionais, ovais, arcos e poligonos.
+              - A especificar as caracteristicas de <b>Paint</b> e <b>Stroker</b> das formas exibidas com <b>Graphics 2D
               
 
 
