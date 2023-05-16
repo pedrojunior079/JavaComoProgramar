@@ -1,8 +1,9 @@
 # JavaComoProgramar
-Livro Java Como Programar da editora Pearson Education do Brasil livro da 8a edição fisica no qual eu possuo.</br>
-Obs: Estou traduzindo para o portugues todos os exemplos que estão em ingles, exceto alguns que vão ficar no ingles mesmo.</br>
-Só algumas palavras que to traduzindo para o portugues nos exemplos em ingles.</br>
-Usando a IDE Eclipse juntamente com git</br>
+<p>Livro Java Como Programar da editora Pearson Education do Brasil livro da 8a edição fisica no qual eu possuo.</p>
+<p>Obs: Estou traduzindo para o portugues todos os exemplos que estão em ingles, exceto alguns que vão ficar no ingles mesmo.</p>
+<p>Só algumas palavras que to traduzindo para o portugues nos exemplos em ingles.</p>
+<p>Usando a IDE Eclipse juntamente com git.</p>
+
 
 ## Capitulo 2: 
    - Escrever aplicativos Java simples.
